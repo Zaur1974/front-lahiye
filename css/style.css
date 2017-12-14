@@ -1,0 +1,29 @@
+
+.upline{
+	width: 100%;
+	height: 55px;
+	background: #1872c5;
+	position:fixed;
+}
+	
+ p{
+	text-align: center;
+	margin:15px 0px;
+	color: white;	
+}
+button{
+	width: 210px;
+	height: 40px;
+	float:right;
+	font-size: 12px;
+	border-radius: 50px;
+	margin:-45px 25px;
+	text-transform: uppercase;
+    letter-spacing: .02em;
+	border:none;
+	background-color: #42a4ff;
+    border-color: #42a4ff;
+    cursor: pointer;
+    
+
+}
